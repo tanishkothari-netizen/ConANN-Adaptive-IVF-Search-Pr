@@ -1,0 +1,4 @@
+# Optional Python packages for analysis / plotting
+numpy
+pandas
+matplotlib
